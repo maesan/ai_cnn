@@ -1,3 +1,4 @@
 # ai_cnn
-please refer https://youtu.be/IJKPpPuPBno
-https://www.youtube.com/playlist?list=PL_zChXXFIJMKWsEhD3WgRJdTx6S3A_7hk
+Please refer
+- https://www.youtube.com/playlist?list=PL_zChXXFIJMKWsEhD3WgRJdTx6S3A_7hk
+- https://youtu.be/G5-MJ-eEYkI
